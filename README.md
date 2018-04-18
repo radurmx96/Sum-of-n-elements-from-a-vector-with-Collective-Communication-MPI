@@ -1,0 +1,1 @@
+# Sum-of-n-elements-from-a-vector-with-Collective-Communication-MPI
